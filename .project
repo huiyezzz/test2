@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>aurora.ide.auroraBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>aurora.ide.auroranature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>dbscript</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/%E6%96%87%E6%A1%A3/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2)/dbscript</locationURI>
+		</link>
+		<link>
+			<name>webRoot</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/%E6%96%87%E6%A1%A3/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2)/webRoot</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
